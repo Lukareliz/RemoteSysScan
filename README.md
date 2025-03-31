@@ -4,7 +4,7 @@
 
 ![Badge](https://img.shields.io/badge/Status-Concluído-green)
 
-> Descrição breve do projeto, explicando sua funcionalidade e propósito.
+> Script para obter rapidamente informações de hardware e sistema operacional de máquinas na rede usando PowerShell.
 
 ## 🚀 Tecnologias Utilizadas
 - PowerShell
